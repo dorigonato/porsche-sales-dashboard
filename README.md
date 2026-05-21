@@ -8,6 +8,8 @@ O projeto utiliza HTML, TailwindCSS, JavaScript e Chart.js para criar uma experi
 
 # Preview do Projeto
 
+https://chatgpt.com/canvas/shared/6a0f5f0500e0819187e0b7aad6b2269f
+
 Dashboard focado em:
 
 * Inteligência comercial
